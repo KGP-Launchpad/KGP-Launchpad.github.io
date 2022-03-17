@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.23d98353.chunk.css",
-    "main.js": "/static/js/main.571949ac.chunk.js",
-    "main.js.map": "/static/js/main.571949ac.chunk.js.map",
+    "main.js": "/static/js/main.cdfb7204.chunk.js",
+    "main.js.map": "/static/js/main.cdfb7204.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.84ad90f9.js",
     "runtime-main.js.map": "/static/js/runtime-main.84ad90f9.js.map",
     "static/js/2.02b7aecc.chunk.js": "/static/js/2.02b7aecc.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/index.html",
     "static/css/main.23d98353.chunk.css.map": "/static/css/main.23d98353.chunk.css.map",
     "static/js/2.02b7aecc.chunk.js.LICENSE.txt": "/static/js/2.02b7aecc.chunk.js.LICENSE.txt",
-    "static/media/TopDiv_android.e6cc887b.png": "/static/media/TopDiv_android.e6cc887b.png",
+    "static/media/TopDiv_android2.8e187e8a.png": "/static/media/TopDiv_android2.8e187e8a.png",
     "static/media/TopDiv_bg.43456a9d.png": "/static/media/TopDiv_bg.43456a9d.png",
     "static/media/footerDark.97ddc08c.png": "/static/media/footerDark.97ddc08c.png",
     "static/media/fundae_bg.a62e8f0e.jpg": "/static/media/fundae_bg.a62e8f0e.jpg",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.84ad90f9.js",
     "static/js/2.02b7aecc.chunk.js",
     "static/css/main.23d98353.chunk.css",
-    "static/js/main.571949ac.chunk.js"
+    "static/js/main.cdfb7204.chunk.js"
   ]
 }
