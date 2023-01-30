@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.93ae9c90.chunk.css",
-    "main.js": "/static/js/main.1a0c3814.chunk.js",
-    "main.js.map": "/static/js/main.1a0c3814.chunk.js.map",
+    "main.js": "/static/js/main.6b541389.chunk.js",
+    "main.js.map": "/static/js/main.6b541389.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.84ad90f9.js",
     "runtime-main.js.map": "/static/js/runtime-main.84ad90f9.js.map",
-    "static/js/2.6ec6ea46.chunk.js": "/static/js/2.6ec6ea46.chunk.js",
-    "static/js/2.6ec6ea46.chunk.js.map": "/static/js/2.6ec6ea46.chunk.js.map",
+    "static/js/2.96bd2218.chunk.js": "/static/js/2.96bd2218.chunk.js",
+    "static/js/2.96bd2218.chunk.js.map": "/static/js/2.96bd2218.chunk.js.map",
     "static/js/3.9f525067.chunk.js": "/static/js/3.9f525067.chunk.js",
     "static/js/3.9f525067.chunk.js.map": "/static/js/3.9f525067.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.93ae9c90.chunk.css.map": "/static/css/main.93ae9c90.chunk.css.map",
-    "static/js/2.6ec6ea46.chunk.js.LICENSE.txt": "/static/js/2.6ec6ea46.chunk.js.LICENSE.txt",
+    "static/js/2.96bd2218.chunk.js.LICENSE.txt": "/static/js/2.96bd2218.chunk.js.LICENSE.txt",
     "static/media/TopDiv_android2.8e187e8a.png": "/static/media/TopDiv_android2.8e187e8a.png",
     "static/media/TopDiv_bg.c687d014.png": "/static/media/TopDiv_bg.c687d014.png",
     "static/media/default.ce67f4d6.jpg": "/static/media/default.ce67f4d6.jpg",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.84ad90f9.js",
-    "static/js/2.6ec6ea46.chunk.js",
+    "static/js/2.96bd2218.chunk.js",
     "static/css/main.93ae9c90.chunk.css",
-    "static/js/main.1a0c3814.chunk.js"
+    "static/js/main.6b541389.chunk.js"
   ]
 }
